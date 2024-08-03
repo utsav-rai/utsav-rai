@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utsav-rai
 - 👀 I’m interested in programming and hardware.
 - 🌱 I’m currently learning go lang.
-- 📫 How to reach me just mail me,
+- 📫 How to reach me just mail me.
 - ⚡ Fun fact: The full form of BBC is British Broadcasting Corporation. 
 
 <!---
