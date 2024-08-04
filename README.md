@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utsav-rai
+- 👋 Hi, I’m Utsav.
 - 👀 I’m interested in programming and hardware.
 - 🌱 I’m currently learning go lang.
 - 📫 How to reach me just mail me.
